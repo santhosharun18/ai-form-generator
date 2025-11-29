@@ -138,19 +138,22 @@
 <summary>Click to view screenshots</summary>
 
 #### Landing Page
-![Landing Page](https://via.placeholder.com/800x400/667eea/ffffff?text=Landing+Page)
+<img src="screenshots/1.png" alt="Home Page" width="500"/><br/>
 
 #### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard)
+<img src="screenshots/2.png" alt="Home Page" width="500"/><br/>
 
 #### Form Creator
-![Form Creator](https://via.placeholder.com/800x400/667eea/ffffff?text=Form+Creator)
+<img src="screenshots/3.png" alt="Home Page" width="500"/><br/>
+
+#### Form Creator
+<img src="screenshots/4.png" alt="Home Page" width="500"/><br/>
 
 #### Public Form View
-![Form View](https://via.placeholder.com/800x400/667eea/ffffff?text=Public+Form)
+<img src="screenshots/5.png" alt="Home Page" width="500"/><br/>
 
 #### Submissions
-![Submissions](https://via.placeholder.com/800x400/667eea/ffffff?text=Submissions)
+<img src="screenshots/6.png" alt="Home Page" width="500"/><br/>
 
 </details>
 
